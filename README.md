@@ -1,86 +1,106 @@
-<div align="center">
-  <img src="./assets/banner.svg" alt="Ernest Kekeli Wemegah professional GitHub profile banner" width="100%" />
+<h1 align="center">Hi there, I'm Ernest Kekeli Wemegah</h1>
 
-  <h1>Ernest Kekeli Wemegah</h1>
+<p align="center">
+  <strong>ICT Support Specialist | Cybersecurity Analyst Trainee | SOC Portfolio Builder</strong>
+</p>
 
-  <p>
-    <strong>ICT Support | Cybersecurity Analyst Trainee | SOC Portfolio | Secure Full-Stack Projects</strong>
-  </p>
+<p align="center">
+  I support users and systems, investigate security scenarios, document findings clearly, and build practical full-stack projects.
+</p>
 
-  <p>
-    Practical ICT support experience backed by cybersecurity labs, analyst-style documentation, and working software projects.
-  </p>
-
-  <p>
-    <a href="mailto:ernestwemegah@gmail.com"><img src="https://img.shields.io/badge/Email-ernestwemegah%40gmail.com-b91c1c?style=flat-square&logo=gmail&logoColor=white" alt="Email Ernest Kekeli Wemegah" /></a>
-    <a href="https://www.linkedin.com/in/keli001/"><img src="https://img.shields.io/badge/LinkedIn-keli001-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
-    <a href="https://github.com/Keli-1"><img src="https://img.shields.io/badge/GitHub-Keli--1-24292f?style=flat-square&logo=github&logoColor=white" alt="GitHub profile" /></a>
-  </p>
-</div>
+<p align="center">
+  <a href="mailto:ernestwemegah@gmail.com"><img src="https://img.shields.io/badge/Email-ernestwemegah%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/keli001/"><img src="https://img.shields.io/badge/LinkedIn-keli001-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Keli-1"><img src="https://img.shields.io/badge/GitHub-Keli--1-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 ---
 
-## Professional Summary
+## About Me
 
-I am an ICT and cybersecurity-focused professional building toward ICT support, SOC analyst, cybersecurity analyst, GRC, and security operations roles.
+I am building toward ICT support, SOC analyst, cybersecurity analyst, GRC, and security operations roles.
 
-My foundation comes from hands-on ICT support work at the University of Health and Allied Sciences, where I supported users, endpoint systems, campus ICT services, technical troubleshooting, system configuration, and documentation. I later expanded this foundation through Coursera and Udemy coursework in cybersecurity, ISO/GRC, SIEM concepts, Linux, SQL, Python, Figma, and full-stack application development.
+My foundation comes from hands-on ICT support work at the University of Health and Allied Sciences, where I supported users, endpoint systems, campus ICT services, technical troubleshooting, system configuration, and documentation. I later expanded this experience through Coursera and Udemy coursework in cybersecurity, ISO/GRC, SIEM concepts, Linux, SQL, Python, Figma, and full-stack application development.
 
-I use GitHub to show practical work: security case notes, SOCSimulator labs, vulnerability/risk documentation, automation scripts, and deployable web application projects.
+I use this GitHub profile to show practical evidence: SOCSimulator labs, incident notes, vulnerability and risk documentation, automation scripts, UI prototypes, and working web applications.
 
-## What I Bring
+## When I Work, I Rely On
 
-| Area | Evidence |
-| --- | --- |
-| **ICT Support** | User support, endpoint troubleshooting, software setup, network support assistance, and technical documentation from UHAS experience. |
-| **SOC Analyst Practice** | SOCSimulator Level 2 Palisade profile with 360 XP, 79.1% accuracy, and 7 completed operations. |
-| **Cybersecurity Documentation** | Incident handler journal, phishing analysis, traffic analysis, vulnerability assessment, and PASTA threat modeling work. |
-| **GRC And Standards** | Coursework in ISO/IEC 27001, ISO/IEC 27033, ISO 20000-1, ISO 22301, ISO 9001, ITSM, BCMS, and policy documentation. |
-| **Software Projects** | Django, Vue, TypeScript, Tailwind CSS, MySQL-ready systems, REST APIs, Figma prototypes, and Paystack test checkout implementation. |
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111" alt="Linux" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" alt="Splunk" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Suricata-B22222?style=flat-square&logoColor=white" alt="Suricata" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Vue-42B883?style=flat-square&logo=vue.js&logoColor=white" alt="Vue" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111111" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Figma-A259FF?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
-## Portfolio Evidence
+## Profile Highlights
 
-Security and ICT portfolio evidence:
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <strong>360 XP</strong><br />
+      SOCSimulator profile
+    </td>
+    <td align="center" width="25%">
+      <strong>79.1%</strong><br />
+      Lab accuracy
+    </td>
+    <td align="center" width="25%">
+      <strong>7</strong><br />
+      Completed operations
+    </td>
+    <td align="center" width="25%">
+      <strong>UHAS</strong><br />
+      ICT support experience
+    </td>
+  </tr>
+</table>
 
-[Open portfolio evidence folder](https://drive.google.com/drive/folders/1uE_1WhFgbNGQsz1wLlt-tmtKnlmLoftt)
+## My Most Relevant Work
 
-Recommended review path:
-
-1. Review the cybersecurity portfolio table below.
-2. Open the evidence folder for incident notes and lab artifacts.
-3. Review selected repositories for full-stack projects, SOC notes, and ICT support documentation.
-4. Read project READMEs for setup instructions, screenshots, and technical decisions.
+- **SOCSimulator Threat Detection Labs** - Practical alert triage covering impossible-travel sign-ins, phishing, steganography exfiltration, weaponized SVG files, and Trojan activity.
+- **Incident Handler's Journal** - Structured notes for ransomware, phishing, Wireshark, tcpdump, and Suricata-based investigation workflows.
+- **Vulnerability Assessment Report** - Linux/MySQL risk assessment using NIST SP 800-30 concepts with MFA, TLS, auditing, and access-control recommendations.
+- **Python Access-Control Automation** - Script logic for updating an allow list by removing unauthorized IP addresses from a restricted-network file.
+- **BidVista 3D Marketplace** - Working e-commerce and auction MVP with Django, Vue, TypeScript, Tailwind CSS, MySQL-ready setup, and Paystack test checkout.
 
 ## Cybersecurity Portfolio
 
-| Project | Summary | Skills Demonstrated |
-| --- | --- | --- |
-| **SOCSimulator Threat Detection Labs** | Completed operations covering impossible-travel sign-ins, phishing, steganography exfiltration, weaponized SVG files, and Trojan activity. | Alert triage, threat detection, SIEM/XDR awareness, investigation workflow |
-| **Incident Handler's Journal** | Documented ransomware, phishing, Wireshark, tcpdump, and Suricata-based investigation workflows. | Incident response, evidence handling, NIST lifecycle thinking |
-| **Python Access-Control Automation** | Built an algorithm that updates an allow list by removing unauthorized IP addresses from a restricted-network file. | Python, file handling, access control, automation |
-| **Vulnerability Assessment Report** | Assessed Linux/MySQL database server risks using NIST SP 800-30 concepts and recommended MFA, TLS, IP allow-listing, authentication, authorization, and auditing controls. | Risk assessment, remediation planning, database security |
-| **PASTA Threat Modeling** | Modeled application risks involving API, PKI, SHA-256, and SQL components. | Threat modeling, API security, application security |
-| **Network Traffic Analysis** | Used DNS and ICMP evidence to identify a UDP port 53 unreachable issue and recommend DNS service and firewall checks. | Network analysis, troubleshooting, protocol interpretation |
+| Project | What It Demonstrates |
+| --- | --- |
+| **SOCSimulator Labs** | SOC triage, alert investigation, SIEM/XDR awareness, threat detection workflow |
+| **Incident Handler's Journal** | Incident response thinking, evidence handling, investigation documentation |
+| **Python Access-Control Automation** | Python file handling, security automation, access control |
+| **Vulnerability Assessment** | Risk assessment, remediation planning, database security |
+| **PASTA Threat Modeling** | API security, application risk analysis, threat modeling |
+| **Network Traffic Analysis** | DNS, ICMP, tcpdump-style evidence review, network troubleshooting |
 
-## Build Projects
+Portfolio evidence:
 
-| Project | Outcome | Stack |
-| --- | --- | --- |
-| **BidVista 3D Marketplace** | Working MVP for a 3D e-commerce and auction platform with product cart, seller listing, admin login, Paystack test checkout, and responsive UI. | Django, Vue, TypeScript, Tailwind CSS, MySQL-ready database |
-| **Figma Product Prototypes** | Product screens and interaction planning before implementation. | Figma, UI/UX, prototyping |
-| **ICT Support Portfolio** | Practical support notes, setup guides, troubleshooting records, and technical documentation. | Windows, networking basics, support workflow |
+[Open my cybersecurity and ICT portfolio folder](https://drive.google.com/drive/folders/1uE_1WhFgbNGQsz1wLlt-tmtKnlmLoftt)
 
 ## Technical Capability Map
 
-| Category | Tools And Skills |
+| Area | Skills And Tools |
 | --- | --- |
 | **Security Operations** | SOC triage, incident response, phishing analysis, SIEM concepts, Splunk, Chronicle, Suricata, Wireshark, tcpdump |
 | **Governance And Risk** | ISO/IEC 27001, ISO/IEC 27033, ISO 20000-1, ISO 22301, ISO 9001, GRC, ITSM, BCMS, risk assessment |
-| **Systems And Support** | Windows support, Linux, endpoint troubleshooting, backups, documentation, user support, network troubleshooting |
+| **ICT Support** | Windows support, endpoint troubleshooting, backups, user support, documentation, network troubleshooting |
 | **Development** | Python, SQL, JavaScript, TypeScript, Django, FastAPI, Node.js, React, Vue, REST APIs, MongoDB, MySQL |
 | **Design And Delivery** | Figma, UI/UX coursework, GitHub documentation, CI/CD awareness, project presentation |
 
-## Professional Experience Snapshot
+## Experience Snapshot
 
 **University of Health and Allied Sciences - ICT Assistant / Technical Support**
 
@@ -88,7 +108,6 @@ Recommended review path:
 - Provided Tier 1 and Tier 2 support for faculty, staff, and students.
 - Configured and updated system software images in line with data and security policies.
 - Assisted with network traffic monitoring to identify vulnerabilities and unauthorized access points.
-- Built practical ICT experience before completing later Coursera and Udemy cybersecurity/ISO coursework.
 
 **Freelance ICT / Web Development Projects**
 
@@ -111,11 +130,11 @@ Recommended review path:
 ## Current Focus
 
 - Strengthening SOC analyst fundamentals through labs and case writeups.
-- Publishing clearer GitHub documentation for each portfolio project.
-- Building secure full-stack systems with practical authentication, database, and payment workflows.
+- Publishing clearer documentation for each portfolio project.
+- Building secure full-stack systems with authentication, database, and payment workflows.
 - Connecting ICT support experience with cybersecurity operations and GRC documentation.
 
-## Contact
+## Connect
 
 - Email: ernestwemegah@gmail.com
 - LinkedIn: https://www.linkedin.com/in/keli001
